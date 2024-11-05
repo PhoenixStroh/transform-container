@@ -11,6 +11,8 @@ config_version=5
 [application]
 
 config/name="Transform Container"
+config/description="A Godot plugin that adds a control node to make transformative animations in ui easier while using containers. "
+config/version="1.0.0"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
